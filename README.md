@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhay2124/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhay2124/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhay2124/leetcode-problems/tree/master/0001-two-sum) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhay2124/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 <!---LeetCode Topics End-->
