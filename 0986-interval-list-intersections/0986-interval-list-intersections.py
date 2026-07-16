@@ -13,7 +13,6 @@ class Solution:
             if start <= end:
                 result.append([start, end])
             
-            # Move pointer of the interval that ends first
             if firstList[i][1] < secondList[j][1]:
                 i += 1
             else:
