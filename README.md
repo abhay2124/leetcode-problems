@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/abhay2124/leetcode-problems/tree/master/0986-interval-list-intersections) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/abhay2124/leetcode-problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
