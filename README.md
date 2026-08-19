@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0004-median-of-two-sorted-arrays](https://github.com/abhay2124/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0986-interval-list-intersections](https://github.com/abhay2124/leetcode-problems/tree/master/0986-interval-list-intersections) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3537-fill-a-special-grid](https://github.com/abhay2124/leetcode-problems/tree/master/3537-fill-a-special-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
