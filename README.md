@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0004-median-of-two-sorted-arrays](https://github.com/abhay2124/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0986-interval-list-intersections](https://github.com/abhay2124/leetcode-problems/tree/master/0986-interval-list-intersections) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/abhay2124/leetcode-problems/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3537-fill-a-special-grid](https://github.com/abhay2124/leetcode-problems/tree/master/3537-fill-a-special-grid) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Prefix Sum
 |  |
 | ------- |
+| [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/abhay2124/leetcode-problems/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/abhay2124/leetcode-problems/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [3537-fill-a-special-grid](https://github.com/abhay2124/leetcode-problems/tree/master/3537-fill-a-special-grid) |
 ## Depth-First Search
 |  |
