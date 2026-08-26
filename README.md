@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3537-fill-a-special-grid](https://github.com/abhay2124/leetcode-problems/tree/master/3537-fill-a-special-grid) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
+| [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/abhay2124/leetcode-problems/tree/master/0001-two-sum) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
+| [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +99,28 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3537-fill-a-special-grid](https://github.com/abhay2124/leetcode-problems/tree/master/3537-fill-a-special-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
+## Union-Find
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
+## Graph Theory
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 <!---LeetCode Topics End-->
