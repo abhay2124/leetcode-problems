@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3537-fill-a-special-grid](https://github.com/abhay2124/leetcode-problems/tree/master/3537-fill-a-special-grid) |
+| [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhay2124/leetcode-problems/tree/master/0001-two-sum) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/abhay2124/leetcode-problems/tree/master/0006-zigzag-conversion) |
+| [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sorting
 |  |
 | ------- |
+| [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
