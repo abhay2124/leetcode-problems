@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0006-zigzag-conversion](https://github.com/abhay2124/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0392-is-subsequence](https://github.com/abhay2124/leetcode-problems/tree/master/0392-is-subsequence) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhay2124/leetcode-problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/abhay2124/leetcode-problems/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/abhay2124/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhay2124/leetcode-problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Bucket Sort
 |  |
 | ------- |
