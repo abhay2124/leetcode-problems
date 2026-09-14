@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/abhay2124/leetcode-problems/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/abhay2124/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0006-zigzag-conversion](https://github.com/abhay2124/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0392-is-subsequence](https://github.com/abhay2124/leetcode-problems/tree/master/0392-is-subsequence) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/abhay2124/leetcode-problems/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Trie
 |  |
 | ------- |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Segment Tree
 |  |
