@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/abhay2124/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhay2124/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0220-contains-duplicate-iii](https://github.com/abhay2124/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhay2124/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/abhay2124/leetcode-problems/tree/master/0986-interval-list-intersections) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -101,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/abhay2124/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhay2124/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/abhay2124/leetcode-problems/tree/master/0986-interval-list-intersections) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/abhay2124/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhay2124/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
