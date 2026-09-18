@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0986-interval-list-intersections](https://github.com/abhay2124/leetcode-problems/tree/master/0986-interval-list-intersections) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1583-count-unhappy-friends](https://github.com/abhay2124/leetcode-problems/tree/master/1583-count-unhappy-friends) |
+| [1664-ways-to-make-a-fair-array](https://github.com/abhay2124/leetcode-problems/tree/master/1664-ways-to-make-a-fair-array) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/abhay2124/leetcode-problems/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Prefix Sum
 |  |
 | ------- |
+| [1664-ways-to-make-a-fair-array](https://github.com/abhay2124/leetcode-problems/tree/master/1664-ways-to-make-a-fair-array) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/abhay2124/leetcode-problems/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
