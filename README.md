@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhay2124/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhay2124/leetcode-problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/abhay2124/leetcode-problems/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/abhay2124/leetcode-problems/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
@@ -188,14 +189,17 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Rolling Hash
 |  |
 | ------- |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/abhay2124/leetcode-problems/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## String Matching
 |  |
 | ------- |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/abhay2124/leetcode-problems/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |
 | ------- |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/abhay2124/leetcode-problems/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Sliding Window
 |  |
