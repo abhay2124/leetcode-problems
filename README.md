@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/abhay2124/leetcode-problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/abhay2124/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0771-jewels-and-stones](https://github.com/abhay2124/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0815-bus-routes](https://github.com/abhay2124/leetcode-problems/tree/master/0815-bus-routes) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhay2124/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0006-zigzag-conversion](https://github.com/abhay2124/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/abhay2124/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/abhay2124/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/abhay2124/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhay2124/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhay2124/leetcode-problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
