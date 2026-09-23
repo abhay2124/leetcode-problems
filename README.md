@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/abhay2124/leetcode-problems/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/abhay2124/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhay2124/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Divide and Conquer
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0263-ugly-number](https://github.com/abhay2124/leetcode-problems/tree/master/0263-ugly-number) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/abhay2124/leetcode-problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/abhay2124/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhay2124/leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Trie
 |  |
