@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/abhay2124/leetcode-problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2543-check-if-point-is-reachable](https://github.com/abhay2124/leetcode-problems/tree/master/2543-check-if-point-is-reachable) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/abhay2124/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhay2124/leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Number Theory
 |  |
 | ------- |
+| [2543-check-if-point-is-reachable](https://github.com/abhay2124/leetcode-problems/tree/master/2543-check-if-point-is-reachable) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/abhay2124/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -231,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2543-check-if-point-is-reachable](https://github.com/abhay2124/leetcode-problems/tree/master/2543-check-if-point-is-reachable) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2543-check-if-point-is-reachable](https://github.com/abhay2124/leetcode-problems/tree/master/2543-check-if-point-is-reachable) |
 <!---LeetCode Topics End-->
