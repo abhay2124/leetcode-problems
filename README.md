@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/abhay2124/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhay2124/leetcode-problems/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3537-fill-a-special-grid](https://github.com/abhay2124/leetcode-problems/tree/master/3537-fill-a-special-grid) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/abhay2124/leetcode-problems/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhay2124/leetcode-problems/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/abhay2124/leetcode-problems/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -177,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Depth-First Search
 |  |
 | ------- |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhay2124/leetcode-problems/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0815-bus-routes](https://github.com/abhay2124/leetcode-problems/tree/master/0815-bus-routes) |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhay2124/leetcode-problems/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 ## Union-Find
 |  |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Graph Theory
 |  |
 | ------- |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhay2124/leetcode-problems/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
