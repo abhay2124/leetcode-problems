@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2284-sender-with-largest-word-count](https://github.com/abhay2124/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Linked List
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Simulation
 |  |
 | ------- |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2543-check-if-point-is-reachable](https://github.com/abhay2124/leetcode-problems/tree/master/2543-check-if-point-is-reachable) |
+## Enumeration
+|  |
+| ------- |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 <!---LeetCode Topics End-->
