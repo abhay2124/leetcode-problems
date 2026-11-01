@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abhay2124/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2831-find-the-longest-equal-subarray](https://github.com/abhay2124/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/abhay2124/leetcode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/abhay2124/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0986-interval-list-intersections](https://github.com/abhay2124/leetcode-problems/tree/master/0986-interval-list-intersections) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/abhay2124/leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abhay2124/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/abhay2124/leetcode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
