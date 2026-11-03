@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2284-sender-with-largest-word-count](https://github.com/abhay2124/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abhay2124/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2831-find-the-longest-equal-subarray](https://github.com/abhay2124/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
+| [2949-count-beautiful-substrings-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2543-check-if-point-is-reachable](https://github.com/abhay2124/leetcode-problems/tree/master/2543-check-if-point-is-reachable) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/abhay2124/leetcode-problems/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2949-count-beautiful-substrings-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/abhay2124/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhay2124/leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhay2124/leetcode-problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2284-sender-with-largest-word-count](https://github.com/abhay2124/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2949-count-beautiful-substrings-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/abhay2124/leetcode-problems/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhay2124/leetcode-problems/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/abhay2124/leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/abhay2124/leetcode-problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/abhay2124/leetcode-problems/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2949-count-beautiful-substrings-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2543-check-if-point-is-reachable](https://github.com/abhay2124/leetcode-problems/tree/master/2543-check-if-point-is-reachable) |
+| [2949-count-beautiful-substrings-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/abhay2124/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
