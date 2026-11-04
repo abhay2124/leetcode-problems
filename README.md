@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/abhay2124/leetcode-problems/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2831-find-the-longest-equal-subarray](https://github.com/abhay2124/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/abhay2124/leetcode-problems/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/abhay2124/leetcode-problems/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/abhay2124/leetcode-problems/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Number Theory
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/abhay2124/leetcode-problems/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Simulation
 |  |
 | ------- |
