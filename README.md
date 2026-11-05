@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0049-group-anagrams](https://github.com/abhay2124/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0220-contains-duplicate-iii](https://github.com/abhay2124/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0621-task-scheduler](https://github.com/abhay2124/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
 | [0815-bus-routes](https://github.com/abhay2124/leetcode-problems/tree/master/0815-bus-routes) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhay2124/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/abhay2124/leetcode-problems/tree/master/0986-interval-list-intersections) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/abhay2124/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/abhay2124/leetcode-problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
 ## Euclidean Algorithm
 |  |
@@ -283,4 +286,24 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+## Backtracking
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
+## Memoization
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
