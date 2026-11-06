@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3537-fill-a-special-grid](https://github.com/abhay2124/leetcode-problems/tree/master/3537-fill-a-special-grid) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/abhay2124/leetcode-problems/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/abhay2124/leetcode-problems/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2949-count-beautiful-substrings-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/abhay2124/leetcode-problems/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Binary Search
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2284-sender-with-largest-word-count](https://github.com/abhay2124/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/abhay2124/leetcode-problems/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Linked List
 |  |
