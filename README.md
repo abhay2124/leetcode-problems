@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0392-is-subsequence](https://github.com/abhay2124/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/abhay2124/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhay2124/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhay2124/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhay2124/leetcode-problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2284-sender-with-largest-word-count](https://github.com/abhay2124/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -309,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhay2124/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhay2124/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
