@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/abhay2124/leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/abhay2124/leetcode-problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/abhay2124/leetcode-problems/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/abhay2124/leetcode-problems/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2284-sender-with-largest-word-count](https://github.com/abhay2124/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhay2124/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/abhay2124/leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/abhay2124/leetcode-problems/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2831-find-the-longest-equal-subarray](https://github.com/abhay2124/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhay2124/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/abhay2124/leetcode-problems/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 <!---LeetCode Topics End-->
