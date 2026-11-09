@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abhay2124/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2831-find-the-longest-equal-subarray](https://github.com/abhay2124/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/abhay2124/leetcode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/abhay2124/leetcode-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/abhay2124/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/abhay2124/leetcode-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Euclidean Algorithm
 |  |
 | ------- |
