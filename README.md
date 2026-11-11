@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhay2124/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhay2124/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhay2124/leetcode-problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/abhay2124/leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2284-sender-with-largest-word-count](https://github.com/abhay2124/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2949-count-beautiful-substrings-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2949-count-beautiful-substrings-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1583-count-unhappy-friends](https://github.com/abhay2124/leetcode-problems/tree/master/1583-count-unhappy-friends) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/abhay2124/leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sweep Line
 |  |
