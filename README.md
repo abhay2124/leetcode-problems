@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0220-contains-duplicate-iii](https://github.com/abhay2124/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0621-task-scheduler](https://github.com/abhay2124/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay2124/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0815-bus-routes](https://github.com/abhay2124/leetcode-problems/tree/master/0815-bus-routes) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhay2124/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/abhay2124/leetcode-problems/tree/master/0986-interval-list-intersections) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0392-is-subsequence](https://github.com/abhay2124/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay2124/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/abhay2124/leetcode-problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/abhay2124/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay2124/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/abhay2124/leetcode-problems/tree/master/2600-k-items-with-the-maximum-sum) |
