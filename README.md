@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhay2124/leetcode-problems/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/abhay2124/leetcode-problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/abhay2124/leetcode-problems/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhay2124/leetcode-problems/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/abhay2124/leetcode-problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2949-count-beautiful-substrings-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/abhay2124/leetcode-problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0220-contains-duplicate-iii](https://github.com/abhay2124/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhay2124/leetcode-problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2831-find-the-longest-equal-subarray](https://github.com/abhay2124/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/abhay2124/leetcode-problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/abhay2124/leetcode-problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Backtracking
 |  |
 | ------- |
