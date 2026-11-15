@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abhay2124/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2831-find-the-longest-equal-subarray](https://github.com/abhay2124/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
+| [2866-beautiful-towers-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2866-beautiful-towers-ii) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/abhay2124/leetcode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/abhay2124/leetcode-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhay2124/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2866-beautiful-towers-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2866-beautiful-towers-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/abhay2124/leetcode-problems/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2866-beautiful-towers-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2866-beautiful-towers-ii) |
 <!---LeetCode Topics End-->
