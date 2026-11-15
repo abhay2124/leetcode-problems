@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/abhay2124/leetcode-problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/abhay2124/leetcode-problems/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/abhay2124/leetcode-problems/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/abhay2124/leetcode-problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2284-sender-with-largest-word-count](https://github.com/abhay2124/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/abhay2124/leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/abhay2124/leetcode-problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/abhay2124/leetcode-problems/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/abhay2124/leetcode-problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2949-count-beautiful-substrings-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhay2124/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/abhay2124/leetcode-problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2866-beautiful-towers-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2866-beautiful-towers-ii) |
 ## Bracket Sequences
 |  |
@@ -344,5 +347,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Monotonic Stack
 |  |
 | ------- |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/abhay2124/leetcode-problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2866-beautiful-towers-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2866-beautiful-towers-ii) |
 <!---LeetCode Topics End-->
