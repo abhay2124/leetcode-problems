@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3721-longest-balanced-subarray-ii](https://github.com/abhay2124/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/abhay2124/leetcode-problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [3979-maximum-valid-pair-sum](https://github.com/abhay2124/leetcode-problems/tree/master/3979-maximum-valid-pair-sum) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/abhay2124/leetcode-problems/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Hash Table
 |  |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/abhay2124/leetcode-problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [3979-maximum-valid-pair-sum](https://github.com/abhay2124/leetcode-problems/tree/master/3979-maximum-valid-pair-sum) |
 ## Backtracking
 |  |
 | ------- |
