@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhay2124/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhay2124/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhay2124/leetcode-problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/abhay2124/leetcode-problems/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/abhay2124/leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2284-sender-with-largest-word-count](https://github.com/abhay2124/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Enumeration
 |  |
 | ------- |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/abhay2124/leetcode-problems/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/abhay2124/leetcode-problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3979-maximum-valid-pair-sum](https://github.com/abhay2124/leetcode-problems/tree/master/3979-maximum-valid-pair-sum) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/abhay2124/leetcode-problems/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Memoization
 |  |
 | ------- |
