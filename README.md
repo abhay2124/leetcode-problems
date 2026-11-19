@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/abhay2124/leetcode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhay2124/leetcode-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abhay2124/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2831-find-the-longest-equal-subarray](https://github.com/abhay2124/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [2866-beautiful-towers-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2866-beautiful-towers-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0621-task-scheduler](https://github.com/abhay2124/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhay2124/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhay2124/leetcode-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay2124/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/abhay2124/leetcode-problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay2124/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhay2124/leetcode-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/abhay2124/leetcode-problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Trie
