@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0049-group-anagrams](https://github.com/abhay2124/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0220-contains-duplicate-iii](https://github.com/abhay2124/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0621-task-scheduler](https://github.com/abhay2124/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/abhay2124/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay2124/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0815-bus-routes](https://github.com/abhay2124/leetcode-problems/tree/master/0815-bus-routes) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhay2124/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0622-design-circular-queue](https://github.com/abhay2124/leetcode-problems/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -357,4 +359,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/abhay2124/leetcode-problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2866-beautiful-towers-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2866-beautiful-towers-ii) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/abhay2124/leetcode-problems/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/abhay2124/leetcode-problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
