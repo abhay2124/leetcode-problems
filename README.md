@@ -224,12 +224,14 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Depth-First Search
 |  |
 | ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abhay2124/leetcode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhay2124/leetcode-problems/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0815-bus-routes](https://github.com/abhay2124/leetcode-problems/tree/master/0815-bus-routes) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abhay2124/leetcode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhay2124/leetcode-problems/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 ## Union-Find
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Graph Theory
 |  |
 | ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abhay2124/leetcode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhay2124/leetcode-problems/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 ## Heap (Priority Queue)
