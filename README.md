@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay2124/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhay2124/leetcode-problems/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
+| [3508-implement-router](https://github.com/abhay2124/leetcode-problems/tree/master/3508-implement-router) |
 | [3537-fill-a-special-grid](https://github.com/abhay2124/leetcode-problems/tree/master/3537-fill-a-special-grid) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abhay2124/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2831-find-the-longest-equal-subarray](https://github.com/abhay2124/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [2949-count-beautiful-substrings-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2949-count-beautiful-substrings-ii) |
+| [3508-implement-router](https://github.com/abhay2124/leetcode-problems/tree/master/3508-implement-router) |
 | [3606-coupon-code-validator](https://github.com/abhay2124/leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhay2124/leetcode-problems/tree/master/3659-partition-array-into-k-distinct-groups) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2831-find-the-longest-equal-subarray](https://github.com/abhay2124/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3508-implement-router](https://github.com/abhay2124/leetcode-problems/tree/master/3508-implement-router) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/abhay2124/leetcode-problems/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Divide and Conquer
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/abhay2124/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
+| [3508-implement-router](https://github.com/abhay2124/leetcode-problems/tree/master/3508-implement-router) |
 | [3607-power-grid-maintenance](https://github.com/abhay2124/leetcode-problems/tree/master/3607-power-grid-maintenance) |
 ## Greedy
 |  |
@@ -366,8 +370,10 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/abhay2124/leetcode-problems/tree/master/0622-design-circular-queue) |
+| [3508-implement-router](https://github.com/abhay2124/leetcode-problems/tree/master/3508-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/abhay2124/leetcode-problems/tree/master/0622-design-circular-queue) |
+| [3508-implement-router](https://github.com/abhay2124/leetcode-problems/tree/master/3508-implement-router) |
 <!---LeetCode Topics End-->
