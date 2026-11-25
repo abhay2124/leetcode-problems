@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0004-median-of-two-sorted-arrays](https://github.com/abhay2124/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/abhay2124/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/abhay2124/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/abhay2124/leetcode-problems/tree/master/0055-jump-game) |
 | [0220-contains-duplicate-iii](https://github.com/abhay2124/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0621-task-scheduler](https://github.com/abhay2124/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/abhay2124/leetcode-problems/tree/master/0622-design-circular-queue) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhay2124/leetcode-problems/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/abhay2124/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay2124/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhay2124/leetcode-problems/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/abhay2124/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay2124/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
