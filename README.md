@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/abhay2124/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhay2124/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/abhay2124/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/abhay2124/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0220-contains-duplicate-iii](https://github.com/abhay2124/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0621-task-scheduler](https://github.com/abhay2124/leetcode-problems/tree/master/0621-task-scheduler) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhay2124/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/abhay2124/leetcode-problems/tree/master/0035-search-insert-position) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/abhay2124/leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/abhay2124/leetcode-problems/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
