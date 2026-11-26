@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/abhay2124/leetcode-problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/abhay2124/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/abhay2124/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0621-task-scheduler](https://github.com/abhay2124/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/abhay2124/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0815-bus-routes](https://github.com/abhay2124/leetcode-problems/tree/master/0815-bus-routes) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0006-zigzag-conversion](https://github.com/abhay2124/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/abhay2124/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/abhay2124/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/abhay2124/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/abhay2124/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhay2124/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/abhay2124/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/abhay2124/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhay2124/leetcode-problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2831-find-the-longest-equal-subarray](https://github.com/abhay2124/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
