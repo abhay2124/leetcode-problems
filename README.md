@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2543-check-if-point-is-reachable](https://github.com/abhay2124/leetcode-problems/tree/master/2543-check-if-point-is-reachable) |
+| [2591-distribute-money-to-maximum-children](https://github.com/abhay2124/leetcode-problems/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/abhay2124/leetcode-problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2949-count-beautiful-substrings-ii](https://github.com/abhay2124/leetcode-problems/tree/master/2949-count-beautiful-substrings-ii) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/abhay2124/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/abhay2124/leetcode-problems/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhay2124/leetcode-problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/abhay2124/leetcode-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2591-distribute-money-to-maximum-children](https://github.com/abhay2124/leetcode-problems/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/abhay2124/leetcode-problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Trie
