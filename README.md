@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay2124/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0815-bus-routes](https://github.com/abhay2124/leetcode-problems/tree/master/0815-bus-routes) |
+| [0943-find-the-shortest-superstring](https://github.com/abhay2124/leetcode-problems/tree/master/0943-find-the-shortest-superstring) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhay2124/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/abhay2124/leetcode-problems/tree/master/0986-interval-list-intersections) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhay2124/leetcode-problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0392-is-subsequence](https://github.com/abhay2124/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/abhay2124/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhay2124/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0943-find-the-shortest-superstring](https://github.com/abhay2124/leetcode-problems/tree/master/0943-find-the-shortest-superstring) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhay2124/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhay2124/leetcode-problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/abhay2124/leetcode-problems/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0392-is-subsequence](https://github.com/abhay2124/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay2124/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0943-find-the-shortest-superstring](https://github.com/abhay2124/leetcode-problems/tree/master/0943-find-the-shortest-superstring) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/abhay2124/leetcode-problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3193-count-the-number-of-inversions](https://github.com/abhay2124/leetcode-problems/tree/master/3193-count-the-number-of-inversions) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/abhay2124/leetcode-problems/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
+| [0943-find-the-shortest-superstring](https://github.com/abhay2124/leetcode-problems/tree/master/0943-find-the-shortest-superstring) |
 | [2317-maximum-xor-after-operations](https://github.com/abhay2124/leetcode-problems/tree/master/2317-maximum-xor-after-operations) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/abhay2124/leetcode-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Euclidean Algorithm
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/abhay2124/leetcode-problems/tree/master/0638-shopping-offers) |
+| [0943-find-the-shortest-superstring](https://github.com/abhay2124/leetcode-problems/tree/master/0943-find-the-shortest-superstring) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -389,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0622-design-circular-queue](https://github.com/abhay2124/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [3508-implement-router](https://github.com/abhay2124/leetcode-problems/tree/master/3508-implement-router) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0943-find-the-shortest-superstring](https://github.com/abhay2124/leetcode-problems/tree/master/0943-find-the-shortest-superstring) |
 <!---LeetCode Topics End-->
